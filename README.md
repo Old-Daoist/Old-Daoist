@@ -63,9 +63,8 @@ Developer exploring technology with curiosity and discipline — learning, build
 ---
 
 ## 📬 Contact
-- **Email:** your-email-here  
-- **LinkedIn:** your-link-here  
-
+- **Email:** lunganlungkhumba2003@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/khumba-lunganlung-a026a4336
 ---
 
 ### _“Cultivation of codes is a long path, we can only wait faster.”_

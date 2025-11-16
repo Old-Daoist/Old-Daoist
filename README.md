@@ -5,11 +5,12 @@ Developer exploring technology with curiosity and discipline — learning, build
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Master's student  
-- 🐍 Learning **Python** for data analytics  
-- 🌐 Building small web projects  
-- 🧠 Interested in **AI**, **health tech**, and clean software design  
-- 🎯 Goal: Build purposeful, minimal, and efficient software
+- 🎓 Master's student in Scientific Computing Modelling and Simulation.
+- 🐍 Learning **Python** for data analytics and more.
+- 🌐 Building small web projects and simple games as a hobby.
+- 🧠 Interested in **cool stuff**, **health tech**, and clean software designs.
+- 🎯 Goal: Build purposeful, minimal, and efficient software and make others happy.
+- thats all..anymore and i would be lying about myself.
 
 ---
 

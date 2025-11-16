@@ -5,7 +5,7 @@ Developer exploring technology with curiosity and discipline — learning, build
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Master's student in Scientific Computing Modelling and Simulation.
+- 🎓 Masters student in Scientific Computing Modelling and Simulation.
 - 🐍 Learning **Python** for data analytics and more.
 - 🌐 Building small web projects and simple games as a hobby.
 - 🧠 Interested in **cool stuff**, **health tech**, and clean software designs.

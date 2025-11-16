@@ -68,4 +68,4 @@ Developer exploring technology with curiosity and discipline — learning, build
 
 ---
 
-### _“Simplicity, clarity, and consistency — the essence of good software.”_
+### _“Cultivation of codes is a long path, we can only wait faster.”_

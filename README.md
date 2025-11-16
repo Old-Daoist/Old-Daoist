@@ -39,8 +39,8 @@ An old daoist venturing into the world of technology — learning, building & ex
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: *your-linkedin-url*  
-- Email: *your-email-here*  
+- LinkedIn:https://www.linkedin.com/in/khumba-lunganlung-a026a4336/  
+- Email:lunganlungkhumba2003@gmail.com
 
 ---
 

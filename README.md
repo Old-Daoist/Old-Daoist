@@ -1,55 +1,71 @@
-# 👋 Hi, I’m Khumba Lunganlung (Old-Daoist)
+# 👋 Hi, I'm Khumba Lunganlung (Old-Daoist)
 
-An old daoist venturing into the world of technology — learning, building & exploring.
-
----
-
-## 🌱 About Me
-- Passionate about **web development**, **data**, and **open-source**  
-- Currently working on **Slap-Aster**, a fun 3D web app  
-- Learning **Python**, **JavaScript**, and systems programming  
-- Building towards a project in **health technology**
+Developer exploring technology with curiosity and discipline — learning, building, and improving one step at a time.
 
 ---
 
-## 💻 Tech Stack
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | `Python`, `C`, `JavaScript`, `HTML`, `CSS` |
-| **Frameworks & Tools** | `React` (or plan to), Git, GitHub |
-| **Others** | Data analysis, basic algorithms |
-
----
-
-## 🚀 My Projects
-
-- **[Slap-Aster](https://github.com/Old-Daoist/Slap-Aster)** — A fun 3D “slap the raccoon” web app  
-- **[Simple Language Translator](https://github.com/Old-Daoist/Simple-Language-translator)** — Translate text using a custom corpus  
-- **[Dirt Rally Board Game](https://github.com/Old-Daoist/Dirt-Rally-Board-game)** — Board-game styled simulation  
-- **[C-Language Programs](https://github.com/Old-Daoist/C-language)** — Collection of C programs for learning
+## 👨‍💻 About Me
+- 🎓 Master's student  
+- 🐍 Learning **Python** for data analytics  
+- 🌐 Building small web projects  
+- 🧠 Interested in **AI**, **health tech**, and clean software design  
+- 🎯 Goal: Build purposeful, minimal, and efficient software
 
 ---
 
-## 🔭 Currently Working On
-- Improving **Slap-Aster** UI & UX  
-- Building a **health-tech web forum** (longer-term goal)  
-- Deepening knowledge in **Python data analytics**
+## 🛠 Tech Stack
+**Languages:**  
+`Python` • `JavaScript` • `C` • `HTML` • `CSS`
+
+**Tools & Frameworks:**  
+`Git` • `GitHub` • `React (learning)` • `TailwindCSS`
 
 ---
 
-## 📫 Get in Touch
-- LinkedIn:https://www.linkedin.com/in/khumba-lunganlung-a026a4336/  
-- Email:lunganlungkhumba2003@gmail.com
+## 🚀 Projects
+- **[Slap-Aster](https://github.com/Old-Daoist/Slap-Aster)** – Simple 3D interaction game  
+- **[Simple Language Translator](https://github.com/Old-Daoist/Simple-Language-translator)** – Basic corpus-based translator  
+- **[Dirt Rally Board Game](https://github.com/Old-Daoist/Dirt-Rally-Board-game)** – Turn-based racing game logic  
+- **[C Language Programs](https://github.com/Old-Daoist/C-language)** – Core C practice programs
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats (Auto-updating)
 
-![Old-Daoist’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Old-Daoist&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&theme=tokyonight)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=github_dark" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true&theme=github_dark" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true" />
+</picture>
 
 ---
 
-> “An old daoist mastering cultivation — one line of code at a time.”
+## 🔄 Recent Activity (Auto-updating)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+> This updates every 24 hours using the GitHub Activity workflow.
+
+---
+
+## 📬 Contact
+- **Email:** your-email-here  
+- **LinkedIn:** your-link-here  
+
+---
+
+### _“Simplicity, clarity, and consistency — the essence of good software.”_

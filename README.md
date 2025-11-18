@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khumba Lunganlung (Old-Daoist)
 
-Developer exploring technology with curiosity and discipline — learning, building, and improving one step at a time.
+Developer/part-time cultivator exploring technology with curiosity and discipline — learning, building, and improving one step at a time.
 
 ---
 

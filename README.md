@@ -1,28 +1,26 @@
-<!-- 🌌 Animated Header -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Khumba%20Lunganlung%20%7C%20Old-Daoist&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=EAEAEA&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Old-Daoist&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=EAEAEA&animation=fadeIn" />
 </p>
 
-# 👋 Greetings, I'm Khumba Lunganlung (Old-Daoist)
+# 👋 Khumba Lunganlung — *Old-Daoist*
 
-> *“Cultivation of code is a long path — patience is the true compiler.”*
+> *“Cultivation of code is a quiet path — improvement comes one commit at a time.”*
 
-Developer • Part-time cultivator • Builder of quiet systems
-Learning, refining, and committing — one step at a time.
-
----
-
-## ☯ Current Path
-
-* 🐍 Studying **Python** for analytics and deeper understanding
-* 🌐 Building small web experiments and interactive ideas
-* 🧠 Exploring **health tech** and minimal software design
-* 🎯 Seeking to create tools that are calm, useful, and meaningful
+Developer • Explorer • Builder of calm systems
+Learning deliberately, building thoughtfully.
 
 ---
 
-## 🛠 Techniques & Tools
+## ☯ Path of Study
+
+* 🐍 Python for data and deeper understanding
+* 🌐 Small web experiments and interactive ideas
+* 🧠 Health tech and minimal software design
+* 🎯 Building tools that are useful, simple, and kind
+
+---
+
+## 🛠 Tools & Techniques
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,tailwind,git,github,vscode" />
@@ -30,28 +28,25 @@ Learning, refining, and committing — one step at a time.
 
 ---
 
-## 🌿 Featured Project — Health Hive
+## 🌿 Ongoing Work — Health Hive
 
-**Health Hive** is a digital health discussion platform designed to
-bridge community experiences with verified medical insights.
+A digital health discussion platform exploring the space
+between community knowledge and verified medical insight.
 
-✨ Community discussions + doctor-only diagnosis layer
-📊 Future vision: public health analytics & disease tracking
-
-> *Building slowly, but with intention.*
+Slowly built, carefully shaped.
 
 ---
 
-## 🚀 Experiments & Builds
+## 🚀 Experiments
 
-🔹 Slap-Aster — interactive 3D experiment
-🔹 Simple Language Translator — corpus logic
-🔹 Dirt Rally Board Game — turn-based system
-🔹 C Practice Programs — foundation training
+• Slap-Aster — interactive 3D exploration
+• Language Translator — corpus-based logic
+• Dirt Rally Board Game — turn-based mechanics
+• C Practice Programs — strengthening fundamentals
 
 ---
 
-## 📈 Cultivation Stats
+## 📈 Cultivation Metrics
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
@@ -76,21 +71,13 @@ bridge community experiences with verified medical insights.
 
 ---
 
-## 👁 Visitors
+## 📬 Reach Out
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Old-Daoist&label=Fellow%20Travelers&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 📬 Communication Scrolls
-
-📧 **Email:** [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
-🔗 **LinkedIn:** https://www.linkedin.com/in/khumba-lunganlung-a026a4336
+📧 [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
+🔗 linkedin.com/in/khumba-lunganlung-a026a4336
 
 ---
 
-### ☁ Final Thought
+### ☁ Closing Reflection
 
-*“Mastery is nothing but accumulated small improvements.”*
+*“Mastery is not a moment, but the accumulation of quiet effort.”*

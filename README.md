@@ -54,14 +54,6 @@ Slowly built, carefully shaped.
 
 ---
 
-## 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
 ## 📬 Reach Out
 
 📧 [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)

@@ -54,8 +54,8 @@ bridge community experiences with verified medical insights.
 ## 📈 Cultivation Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true&theme=github_dark" height="165"/>
 </p>
 
 ---
@@ -86,8 +86,8 @@ bridge community experiences with verified medical insights.
 
 ## 📬 Communication Scrolls
 
-📧 [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
-🔗 linkedin.com/in/khumba-lunganlung-a026a4336
+📧 **Email:** [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/khumba-lunganlung-a026a4336
 
 ---
 

@@ -1,24 +1,15 @@
-name: Update GitHub Activity
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * 0"   # Runs every Sunday at 00:00 UTC
-  workflow_dispatch:       # Allow manual run
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-activity:
-    name: Update Recent Activity
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
-      - name: Update activity in README
-        uses: Readme-Workflows/recent-activity@v2.6.0
+      - uses: Readme-Workflows/recent-activity@v2
         with:
-          GH_USERNAME: Old-Daoist
-
-      - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Updated GitHub activity"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

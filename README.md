@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Old-Daoist&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=EAEAEA&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cloud&height=180&text=Old-Daoist&fontAlign=50&fontAlignY=45&color=0:e6f0ff,100:cfd9df&fontColor=2c3e50&animation=fadeIn" />
 </p>
 
 # 👋 Khumba Lunganlung — *Old-Daoist*
@@ -73,8 +73,8 @@ Slowly built, carefully shaped.
 
 ## 📬 Reach Out
 
-📧 [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
-🔗 linkedin.com/in/khumba-lunganlung-a026a4336
+📧 **Email:** [lunganlungkhumba2003@gmail.com](mailto:lunganlungkhumba2003@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/khumba-lunganlung-a026a4336
 
 ---
 

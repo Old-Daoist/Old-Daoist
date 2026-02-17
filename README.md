@@ -46,20 +46,19 @@ Slowly built, carefully shaped.
 
 ---
 
-## 📈 Cultivation Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Old-Daoist&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Old-Daoist&layout=compact&hide_border=true&theme=github_dark" height="165"/>
-</p>
-
----
-
 ## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Old-Daoist/Old-Daoist/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🔄 Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 

@@ -6,7 +6,7 @@
 
 > *“Cultivation of code is a quiet path — improvement comes one commit at a time.”*
 
-Developer • Explorer • Builder of calm systems
+Developer • Explorer • Builder of calm and unique systems
 Learning deliberately, building thoughtfully.
 
 ---

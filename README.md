@@ -15,7 +15,7 @@ Learning deliberately, building thoughtfully.
 
 * 🐍 Python for data and deeper understanding
 * 🌐 Small web experiments and interactive ideas
-* 🧠 Health tech and minimal software design
+* 🧠 In search for something unique
 * 🎯 Building tools that are useful, simple, and kind
 
 ---

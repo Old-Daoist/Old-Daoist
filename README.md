@@ -13,10 +13,10 @@ Learning deliberately, building thoughtfully.
 
 ## ☯ Path of Study
 
-* 🐍 Python for data and deeper understanding
-* 🌐 Small web experiments and interactive ideas
-* 🧠 In search for something unique
-* 🎯 Building tools that are useful, simple, and kind
+* 🐍 Python for data and deeper understanding.
+* 🌐 Small web experiments and interactive ideas.
+* 🧠 In search for something unique.
+* 🎯 Building tools that are useful, simple, and kind.
 
 ---
 

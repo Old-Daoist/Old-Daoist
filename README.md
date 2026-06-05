@@ -63,4 +63,4 @@ Slowly built, carefully shaped.
 
 ### ☁ Closing Reflection
 
-*“Mastery is not a moment, but the accumulation of quiet effort.”*
+*“Mastery is not a moment, but the accumulation of quiet effort.....yes i meant it”* 

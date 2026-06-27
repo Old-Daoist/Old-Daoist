@@ -5,7 +5,9 @@
 # 👋 Khumba Lunganlung — *Old-Daoist*
 
 > *“Cultivation of code is a quiet path — improvement comes one commit at a time.”*
-
+> 
+*“Currently learning Embedded systems”*
+> 
 Developer • Explorer • Builder of calm and unique systems.
 Learning deliberately, building thoughtfully.
 

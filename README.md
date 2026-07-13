@@ -8,7 +8,7 @@
 > 
 *Currently learning Embedded systems*
 > 
-Developer • Explorer • Builder of calm and unique systems.
+Developer • Explorer • Interest in building unique systems.
 Learning deliberately, building thoughtfully.
 
 ---

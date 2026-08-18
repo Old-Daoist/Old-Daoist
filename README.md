@@ -22,7 +22,7 @@ Learning deliberately, building thoughtfully.
 
 ---
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,tailwind,git,github,vscode" />
@@ -30,7 +30,7 @@ Learning deliberately, building thoughtfully.
 
 ---
 
-## 🌿 Ongoing Work — 5 or more with Ai(Reinforced Learning)
+##  Ongoing Work — 5 or more with Ai(Reinforced Learning)
 
 A group project where we learn about reinforced learning, how it interacts with the environment that we set up for the 9x9 board game "5 or more".
 ---

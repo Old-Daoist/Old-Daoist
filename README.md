@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Old-Daoist&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=EAEAEA&animation=fadeIn" />
 </p>
 
-# 👋 Khumba Lunganlung — *Old-Daoist*
+#  Khumba Lunganlung — *Old-Daoist*
 
 > *“Cultivation of code is a quiet path — improvement comes one commit at a time.”*
 > 
@@ -15,10 +15,10 @@ Learning deliberately, building thoughtfully.
 
 ## ☯ Path of Study
 
-* 🐍 Python for data and deeper understanding of Deep Reinforced learning
-* 🌐 Small web experiments and interactive ideas to learn.
-* 🧠 In search for something unique.
-* 🎯 Building tools that are useful, simple, and kind.
+*  Python for data and deeper understanding of Deep Reinforced learning
+*  Small web experiments and interactive ideas to learn.
+*  In search for something unique.
+*  Building tools that are useful, simple, and kind.
 
 ---
 
@@ -35,7 +35,7 @@ Learning deliberately, building thoughtfully.
 A group project where we learn about reinforced learning, how it interacts with the environment that we set up for the 9x9 board game "5 or more".
 ---
 
-## 🚀 Experiments
+##  Experiments
 
 • Slap-Aster — interactive 3D exploration
 • Language Translator — corpus-based logic
@@ -45,7 +45,6 @@ A group project where we learn about reinforced learning, how it interacts with 
 ---
 
 ## 🐍 Contribution Flow
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Old-Daoist/Old-Daoist/output/github-contribution-grid-snake.svg" />
 </p>

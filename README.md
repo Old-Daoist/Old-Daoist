@@ -30,13 +30,9 @@ Learning deliberately, building thoughtfully.
 
 ---
 
-## 🌿 Ongoing Work — Health Hive
+## 🌿 Ongoing Work — 5 or more with Ai(Reinforced Learning)
 
-A digital health discussion platform exploring the space
-between community knowledge and verified medical insight.
-
-Slowly built, carefully shaped.
-
+A group project where we learn about reinforced learning, how it interacts with the environment that we set up for the 9x9 board game "5 or more".
 ---
 
 ## 🚀 Experiments

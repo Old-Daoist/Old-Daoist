@@ -4,7 +4,7 @@
 
 #  Khumba Lunganlung — *Old-Daoist*
 
-> *“Cultivation of code is a quiet path — improvement comes one commit at a time.”*
+> *“Cultivation of code is a quiet path — improvement comes one commit at a time with patience.”*
 > 
 *Currently learning Embedded systems*
 > 

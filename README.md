@@ -6,7 +6,6 @@
 
 > *“Cultivation of code is a quiet path — improvement comes one commit at a time with patience.”*
 > 
-*Currently learning Embedded systems*
 > 
 Developer • Explorer • Interest in building unique systems.
 Learning deliberately, building thoughtfully.

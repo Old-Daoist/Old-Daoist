@@ -8,7 +8,7 @@
 > 
 > 
 Developer • Explorer • Interest in building unique systems.
-Learning deliberately, building thoughtfully.
+Learning deliberately, building thoughtfully, one step now.
 
 ---
 

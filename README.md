@@ -17,7 +17,6 @@ Learning deliberately, building thoughtfully, one step now.
 *  Python for data and deeper understanding of Deep Reinforced learning
 *  Small web experiments and interactive ideas to learn.
 *  In search for something unique.
-*  Building tools that are useful, simple, and kind.
 
 ---
 

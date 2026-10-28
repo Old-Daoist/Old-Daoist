@@ -33,14 +33,7 @@ Learning deliberately, building thoughtfully, one step now.
 A group project where we learn about reinforced learning, how it interacts with the environment that we set up for the 9x9 board game "5 or more".
 ---
 
-##  Experiments
 
-• Slap-Aster — interactive 3D exploration
-• Language Translator — corpus-based logic
-• Dirt Rally Board Game — turn-based mechanics
-• C Practice Programs — strengthening fundamentals
-
----
 
 ## 🐍 Contribution Flow
 <p align="center">
